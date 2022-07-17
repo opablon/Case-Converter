@@ -1,0 +1,16 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#text-area {
+    width: 50vw;
+    height: 50vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#buttons {
+    text-align: center;
+}
